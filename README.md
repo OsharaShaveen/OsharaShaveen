@@ -27,12 +27,12 @@ You can use the website to generate badges: https://shields.io/
 
 <img width="42%" align="right" alt="Github" src="https://telegra.ph/file/032e346e61e5e2ac25798.png" />
 
-- 👨🏽‍💻 I’m currently Own on [SVF TEAM🇱🇰](t.me/SLEHIGROUP);
-- 🌱 I’m currently learning Python(CircleCI); 
-- 🤔 I’m looking for help with Design Pattern🙂;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I'm Still Student;
-- 📫 How to reach me: [GMAIL](lankanboy849@gmail.com);
+- 👨🏽‍💻 I’m currently Own on [SVF TEAM🇱🇰](t.me/SLEHIGROUP)
+- 🌱 I’m currently learning Python(CircleCI) 
+- 🤔 I’m looking for help with Design Pattern🙂
+- 💬 Ask me about anything, I am happy to help
+- ⚡️ Fun-Fact: I'm Still Student
+- 📫 How to reach me: [GMAIL](lankanboy849@gmail.com)
 
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
