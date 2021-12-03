@@ -109,13 +109,11 @@ You can use the website to generate badges: https://shields.io/
  
  
  <a href="https://t.me/WhiteDevilOp999" target="blank">
-<a href="https://github.com/OsharaShaveen"><img src="https://icon-library.com/images/icon-programmer/icon-programmer-14.jpg" width="32px" height="32px">
+<a href="https://t.me/WhiteDevilOp999"><img src="https://telegra.ph/file/ee82a5b8f14866d426f1d.jpg" width="32px" height="32px">
  </a> 
   <br/>
   <br/>
-  Thanks for stopping by 😁<br/>
-</p>
-<p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsbatrow%2F" /></p>
+  Thanks For Read My About 🥲<br/>
 
 
 
