@@ -32,7 +32,7 @@ You can use the website to generate badges: https://shields.io/
 - 😇 I’m Shaveen, My Nick Name Is WhiteDevil
 - 😈 Im 21 Years Old 🇱🇰
 	
-- 🥸 Ask Me About Anything, I Reply It With Happy 🙂
+- ❤️ Ask Me About Anything, I Reply It With Happy 🙂
 - 📫 How to Contact me: [GMAIL](lankanboy849@gmail.com)
 	
 
