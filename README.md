@@ -105,11 +105,7 @@ You can use the website to generate badges: https://shields.io/
 
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
-</div>
-<p align="center">
- <a href="https://www.linkedin.com/in/sbatrow/" target="blank">
-  <img align="center" alt="sbatrow's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
- </a>
+
  <a href="https://www.instagram.com/sbatroww/" target="blank">
   <img align="center" alt="Sithum batrow's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
  </a>
