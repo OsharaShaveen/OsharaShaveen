@@ -109,7 +109,7 @@ You can use the website to generate badges: https://shields.io/
  
  
  <a href="https://t.me/WhiteDevilOp999" target="blank">
-<a href="https://t.me/WhiteDevilOp999"><img src="https://telegra.ph/file/ee82a5b8f14866d426f1d.jpg" width="32px" height="32px">
+<a href="https://t.me/WhiteDevilOp999"><img src="https://telegra.ph/file/49f4549a7af6561e78b22.jpg" width="32px" height="32px">
  </a> 
   <br/>
   <br/>
