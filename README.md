@@ -5,7 +5,7 @@
  <a href="https://t.me/sibatrow/"><img src="https://media.istockphoto.com/vectors/programming-code-application-window-vector-id1124838925?k=20&m=1124838925&s=170667a&w=0&h=qiorTps2pQd6vm29ApL50h9W6fiQgHle9_2fbb9OXw4=" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[WhiteDevil](https://t.me/WhiteDevilOp999/)**                                                                                |
-| <a href="github.com/OsharaShaveen"><img src="https://icon-library.com/images/icon-programmer/icon-programmer-14.jpg" width="32px" height="32px"></a> <a href="https://www.facebook.com/sithum batrow"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/sithum batrow/"><img src="https://i.ibb.co/Kx2GSrT/instagram.png" width="32px" height="32px"></a> |
+| <a href="https://github.com/OsharaShaveen"><img src="https://icon-library.com/images/icon-programmer/icon-programmer-14.jpg" width="32px" height="32px">
 
 
 <em>I am a student in  <a href="https://en.wikipedia.org/wiki/Sri_Lanka"><b>Sri Lanka</b></a>. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="20px"/>, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"> is enough knowledge**. 🧠</em>
