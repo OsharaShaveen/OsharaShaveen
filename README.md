@@ -60,11 +60,11 @@ You can use the website to generate badges: https://shields.io/
 
 
 # GITHUB STATUS.
-- ![Profile views](https://gpvc.arturio.dev/https://OsharaShaveen)
+
 - [![GitHub followers](https://img.shields.io/github/followers/OsharaShaveen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/OsharaShaveen?tab=followers)
 
  <a href="https://github.com/inukaasith/handle-path-oz">
-    <img width="55%" align="left" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=sbatrow&show_icons=true&hide_border=true" />
+    <img width="55%" align="left" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=OsharaShaveen&show_icons=true&hide_border=true" />
   </a>
 </p>
 <p align ="right">
