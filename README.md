@@ -109,7 +109,7 @@ You can use the website to generate badges: https://shields.io/
  
  
  <a href="https://t.me/WhiteDevilOp999" target="blank">
-  <img align="center" alt="Sithum batrow's Telegram" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
+<a href="https://github.com/OsharaShaveen"><img src="https://icon-library.com/images/icon-programmer/icon-programmer-14.jpg" width="32px" height="32px">
  </a> 
   <br/>
   <br/>
