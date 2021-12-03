@@ -25,7 +25,7 @@ You can use the website to generate badges: https://shields.io/
 
 &nbsp;
 
-<img width="42%" align="right" alt="Github" src="https://telegra.ph/file/032e346e61e5e2ac25798.png" />
+<img width="42%" align="right" alt="Github" src="https://telegra.ph/file/ee82a5b8f14866d426f1d.jpg" />
 
 - 👨🏽‍💻 I’m currently Own on [SVF TEAM🇱🇰](t.me/SLEHIGROUP)
 - 🌱 I’m currently learning Python(CircleCI) 
