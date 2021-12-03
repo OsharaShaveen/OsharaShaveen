@@ -32,7 +32,7 @@ You can use the website to generate badges: https://shields.io/
 - 😇 I’m Shaveen, My Nick Name Is WhiteDevil
 - 💬 My Father Is Doctor In Sri Lanka 🇱🇰
 	
-- ⚡️ Fun-Fact: I'm Still Student
+- 😈 Ask Me About Anything, I Reply It With Happy 🙂
 - 📫 How to Contact me: [GMAIL](lankanboy849@gmail.com)
 	
 
