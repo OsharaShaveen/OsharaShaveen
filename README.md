@@ -18,21 +18,21 @@
 You can use the website to generate badges: https://shields.io/
 -->
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/sbatrow)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/sbatrow/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](sithum-batrow:batro10300@gmail.com)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](sithum-batrow:sithum10300@outlook.com)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/OsharaShaveen)
+
+
+
 
 &nbsp;
 
 <img width="42%" align="right" alt="Github" src="https://telegra.ph/file/032e346e61e5e2ac25798.png" />
 
-- 👨🏽‍💻 I’m currently working on [DARK MANAGER](https://github.com/DARKSSH-MANAGER);
-- 🌱 I’m currently learning Python And Linux(CircleCI); 
-- 🤔 I’m looking for help with Design Pattern 😭;
+- 👨🏽‍💻 I’m currently Own on [SVF TEAM🇱🇰](t.me/SLEHIGROUP);
+- 🌱 I’m currently learning Python(CircleCI); 
+- 🤔 I’m looking for help with Design Pattern🙂;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I'm Still Student;
-- 📫 How to reach me: batro10300@gmail.com;
+- 📫 How to reach me: [GMAIL](lankanboy849@gmail.com);
 
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
@@ -60,8 +60,8 @@ You can use the website to generate badges: https://shields.io/
 
 
 # GITHUB STATUS.
-- ![Profile views](https://gpvc.arturio.dev/sbatrow)
-- [![GitHub followers](https://img.shields.io/github/followers/sbatrow.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/sbatrow?tab=followers)
+- ![Profile views](https://gpvc.arturio.dev/https://OsharaShaveen)
+- [![GitHub followers](https://img.shields.io/github/followers/OsharaShaveen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/OsharaShaveen?tab=followers)
 
  <a href="https://github.com/inukaasith/handle-path-oz">
     <img width="55%" align="left" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=sbatrow&show_icons=true&hide_border=true" />
